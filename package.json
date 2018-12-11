@@ -1,0 +1,26 @@
+{
+  "name": "tropicali",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peterlunglum/tropicali.git"
+  },
+  "keywords": [
+    "restaurant",
+    "website"
+  ],
+  "author": "Peter Lum",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peterlunglum/tropicali/issues"
+  },
+  "homepage": "https://github.com/peterlunglum/tropicali#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
