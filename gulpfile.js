@@ -48,7 +48,7 @@ gulp.task("watch", function(){
     })
 // initialize gulp to watch our sass file
     gulp.watch("src/*.html", ["html"]).on("change", browserSync.reload)
-    gulp.watch("src/css/app.scss", ["sass"])
+    gulp.watch("src/css/*", ["sass"])
     gulp.watch("src/fonts/*", ["fonts"])
     gulp.watch("src/img/*", ["images"])
 })
