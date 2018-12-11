@@ -28,6 +28,8 @@
     "gulp-imagemin": "^5.0.3",
     "gulp-sass": "^4.0.2",
     "gulp-sourcemaps": "^2.6.4",
+    "gulp-util": "^3.0.8",
     "node-sass": "^4.11.0"
-  }
+  },
+  "dependencies": {}
 }
